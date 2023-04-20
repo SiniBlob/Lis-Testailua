@@ -43,14 +43,14 @@ textarea:hover {
 
 input:focus {
     outline: none !important;
-    border-color: rgb(233, 94, 94);
-    box-shadow: 0 0 10px rgb(245, 62, 30);
+    border-color: rgb(245, 242, 93);
+    box-shadow: 0 0 10px rgb(245, 242, 93);
 }
 
 textarea:focus {
     outline: none !important;
-    border-color: rgb(233, 94, 94);
-    box-shadow: 0 0 10px rgb(233, 94, 94);
+    border-color: rgb(245, 242, 93);
+    box-shadow: 0 0 10px rgb(245, 242, 93);
 }
 
 input[type=reset] {
