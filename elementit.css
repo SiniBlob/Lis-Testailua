@@ -40,6 +40,10 @@ textarea {
     border-color: gold;
     background-color: rgb(253, 249, 225)
   }
+ 
+  textarea:focus {
+    border-color: rgb(233, 94, 94);
+    }
 
   input[type=reset] {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
